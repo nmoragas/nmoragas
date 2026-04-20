@@ -1,4 +1,4 @@
-## Núria Moragas Garcia, PhD 👋
+## Núria Moragas, PhD 👋
 
 🧬 Bioinformatics Scientist | NGS · Epigenomics · Multi-omics Data Science  
 📍 IDIBELL, Barcelona · Oncology Data Analytics Program (ODAP)  
